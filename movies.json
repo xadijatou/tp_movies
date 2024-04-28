@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "khadija",
+        "genre": "romance",
+        "synopsis": ".............................................................................",
+        "year": 2023,
+        "director": "khadydiatou samb"
+    },
+    {
+        "id": 2,
+        "title":  "les tactic de l'amour",
+        "genre": "romance",
+        "synopsis": "ca parle d'amour",
+        "year": 2023,
+        "director": "inconu"
+    },
+    {
+        "id": 3,
+        "title": "blood and water",
+        "genre": "Action",
+        "synopsis": "ca parle aussi d'amour",
+        "year": 2022,
+        "director": "inconnu"
+    }
+]
